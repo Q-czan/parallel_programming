@@ -18,11 +18,11 @@ task3.exe <число_потоков> <номер_метода>
 
 Примеры:
 
-task3.exe 8 1
-task3.exe 8 2
-task3.exe 8 3
-task3.exe 8 4
-task3.exe 8 5
+task3.exe 8 1<br>
+task3.exe 8 2<br>
+task3.exe 8 3<br>
+task3.exe 8 4<br>
+task3.exe 8 5<br>
 
 ## Реализованные методы
 
