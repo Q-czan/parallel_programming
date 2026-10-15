@@ -18,10 +18,10 @@ task4.exe <размер_матрицы> <число_потоков>
 
 ## Примеры запуска
 
-task4.exe 500 1
-task4.exe 500 2
-task4.exe 500 4
-task4.exe 500 8
+task4.exe 500 1<br>
+task4.exe 500 2<br>
+task4.exe 500 4<br>
+task4.exe 500 8<br>
 
 ## Пояснение
 
