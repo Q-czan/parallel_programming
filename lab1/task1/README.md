@@ -22,9 +22,9 @@ task1.exe 8
 
 ## Ожидаемый вывод
 
-Поток 3 из 8: Hello World
-Поток 1 из 8: Hello World
-Поток 6 из 8: Hello World
+Поток 3 из 8: Hello World<br>
+Поток 1 из 8: Hello World<br>
+Поток 6 из 8: Hello World<br>
 ...
 
 ## Ответ на вопрос
