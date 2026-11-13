@@ -12,17 +12,15 @@ g++ -fopenmp task5.cpp -o task5.exe
 ## Запуск
 task5.exe <файл> [число_потоков]
 
-Примеры:\n
-task5.exe points.txt 1\n
-task5.exe points.txt 2\n
-task5.exe points.txt 4\n
-task5.exe points.txt 8\n
+Примеры:<br>
+task5.exe points.txt 1<br>
+task5.exe points.txt 8<br>
 
 ## Формат файла
-Каждая строка — три числа через пробел:\n
-1.0 2.0 3.0\n
-4.0 5.0 6.0\n
-...\n
+Каждая строка — три числа через пробел:<br>
+1.0 2.0 3.0<br>
+4.0 5.0 6.0<br>
+...<br>
 
 ## Описание версий
 1. **Параллельный цикл** — `#pragma omp parallel for reduction(+:sum_x, sum_y, sum_z)`.
