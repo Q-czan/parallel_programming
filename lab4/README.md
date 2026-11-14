@@ -14,7 +14,7 @@ g++ -fopenmp task6.cpp -o task6.exe
 ## Запуск
 task6.exe <файл> [число_потоков]
 
-Примеры:
+Примеры:<br>
 task6.exe points.txt 1<br>
 task6.exe points.txt 4<br>
 task6.exe points.txt 8<br>
